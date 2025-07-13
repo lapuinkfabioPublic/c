@@ -1,5 +1,8 @@
 /*
 Fabio Leandro Lapuinka Rede Token Ring
+gcc -o tokenring tokenring.c -lpthread
+./tokenring
+
 */
 #include <stdio.h>
 #include <stdlib.h>
